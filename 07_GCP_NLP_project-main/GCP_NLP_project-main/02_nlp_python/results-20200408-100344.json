@@ -1,0 +1,2059 @@
+[
+  {
+    "text_snippet": {
+      "content": "8566965\tThe murine homolog of the human breast and ovarian cancer susceptibility gene Brca1 maps to mouse chromosome 11D.\tThe recently cloned human breast and ovarian cancer susceptibility gene , BRCA1 , is located on human chromosome 17q21 . We have isolated murine genomic clones containing Brca1 as a first step in generating a mouse model for the loss of BRCA1 function . A mouse genomic library was screened using probes corresponding to exon 11 of the human BRCA1 gene . Two overlapping mouse clones were identified that hybridized to human BRCA1 exons 9-12 . Sequence analysis of 1 . 4 kb of the region of these clones corresponding to part of human exon 11 revealed 72 % nucleic acid identity but only 50 % amino acid identity with the human gene . The longest of the mouse Brca1 genomic clones maps to chromosome 11D , as determined by two-color fluorescence in situ hybridization . The synteny to human chromosome 17 was confirmed by cohybridization with the mouse probe for the NF1-gene . This comparative study confirms that the relative location of the BRCA1 gene has been conserved between mice and humans . \n "
+    },
+    "annotations": [
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "40",
+            "end_offset": "65"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "148",
+            "end_offset": "173"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "text_snippet": {
+      "content": "3659917\tConservation of the Duchenne muscular dystrophy gene in mice and humans.\tA portion of the Duchenne muscular dystrophy ( DMD ) gene transcript from human fetal skeletal muscle and mouse adult heart was sequenced , representing approximately 25 percent of the total , 14-kb DMD transcript . The nucleic acid and predicted amino acid sequences from the two species are nearly 90 percent homologous . The amino acid sequence that is predicted from this portion of the DMD gene indicates that the protein product might serve a structural role in muscle , but the abundance and tissue distribution of the messenger RNA suggests that the DMD protein is not nebulin . . \n "
+    },
+    "annotations": [
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "28",
+            "end_offset": "55"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "98",
+            "end_offset": "125"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "128",
+            "end_offset": "131"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "280",
+            "end_offset": "283"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "472",
+            "end_offset": "475"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "639",
+            "end_offset": "642"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "text_snippet": {
+      "content": "1684569\tAnalysis of X-chromosome inactivation and presumptive expression of the Wiskott-Aldrich syndrome ( WAS ) gene in hematopoietic cell lineages of a thrombocytopenic carrier female of WAS.\tWe report on a thrombocytopenic female belonging to a pedigree with the Wiskott-Aldrich syndrome ( WAS ) . Restriction fragment length polymorphism ( RFLP ) analysis with probe M27 beta , closely linked to the WAS gene , demonstrated that she is a carrier of WAS . Both small-sized and normal-sized platelets were present , suggesting that , unlike the vast majority of WAS carriers , she does not manifest nonrandom X-chromosome inactivation in the thrombopoietic cell lineage . Study of X-chromosome inactivation by means of RFLP and methylation analysis demonstrated that the pattern of X-chromosome inactivation was nonrandom in T lymphocytes , but random in granulocytes . While this is the first complete report on the occurrence of thrombocytopenia in a carrier female of WAS as the result of atypical lyonization , it also suggests that expression of the WAS gene occurs at ( or extends up to ) a later stage than the multipotent stem cell along the hematopoietic differentiation pathway . . \n "
+    },
+    "annotations": [
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "80",
+            "end_offset": "104"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "107",
+            "end_offset": "110"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "189",
+            "end_offset": "192"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "209",
+            "end_offset": "225"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "266",
+            "end_offset": "290"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "293",
+            "end_offset": "296"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "404",
+            "end_offset": "407"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "453",
+            "end_offset": "456"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "564",
+            "end_offset": "567"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "933",
+            "end_offset": "949"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "973",
+            "end_offset": "976"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1057",
+            "end_offset": "1060"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "text_snippet": {
+      "content": "10830910\tGenotype-phenotype correlations in families with deletions in the von Hippel-Lindau (VHL) gene.\tVon Hippel-Lindau ( VHL ) disease is a hereditary tumor syndrome characterized by predisposition for bilateral and multi-centric hemangioblastoma in the retina and central nervous system , pheochromocytoma , renal cell carcinoma , and cysts in the kidney , pancreas , and epididymis . We describe five families for which direct sequencing of the coding region of the VHL gene had failed to identify the family-specific mutation . Further molecular analysis revealed deletions involving the VHL gene in each of these families . In four families , partial deletions of one or more exons were detected by Southern blot analysis . In the fifth family , FISH analysis demonstrated the deletion of the entire VHL gene . Our results show that ( quantitative ) Southern blot analysis is a sensitive method for detecting germline deletions of the VHL gene and should be implemented in routine DNA diagnosis for VHL disease . Our data support the previously established observation that families with a germline deletion have a low risk for pheochromocytoma . Further unraveling of genotype-phenotype correlations in VHL disease has revealed that families with a full or partial deletion of the VHL gene exhibit a phenotype with a preponderance of central nervous system hemangioblastoma . . \n "
+    },
+    "annotations": [
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "75",
+            "end_offset": "92"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "94",
+            "end_offset": "97"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "105",
+            "end_offset": "138"
+          }
+        }
+      },
+      {
+        "display_name": "DiseaseClass",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "144",
+            "end_offset": "169"
+          }
+        }
+      },
+      {
+        "display_name": "CompositeMention",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "206",
+            "end_offset": "250"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "294",
+            "end_offset": "310"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "313",
+            "end_offset": "333"
+          }
+        }
+      },
+      {
+        "display_name": "CompositeMention",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "340",
+            "end_offset": "387"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "472",
+            "end_offset": "475"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "595",
+            "end_offset": "598"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "808",
+            "end_offset": "811"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "943",
+            "end_offset": "946"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1007",
+            "end_offset": "1018"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1136",
+            "end_offset": "1152"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1212",
+            "end_offset": "1223"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1290",
+            "end_offset": "1293"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1343",
+            "end_offset": "1382"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "text_snippet": {
+      "content": "10947987\tAsef, a link between the tumor suppressor APC and G-protein signaling.\tThe adenomatous polyposis coli gene ( APC ) is mutated in familial adenomatous polyposis and in sporadic colorectal tumors . Here the APC gene product is shown to bind through its armadillo repeat domain to a Rac-specific guanine nucleotide exchange factor ( GEF ) , termed Asef . Endogenous APC colocalized with Asef in mouse colon epithelial cells and neuronal cells . Furthermore , APC enhanced the GEF activity of Asef and stimulated Asef-mediated cell flattening , membrane ruffling , and lamellipodia formation in MDCK cells . These results suggest that the APC-Asef complex may regulate the actin cytoskeletal network , cell morphology and migration , and neuronal function . . \n "
+    },
+    "annotations": [
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "34",
+            "end_offset": "39"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "84",
+            "end_offset": "110"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "138",
+            "end_offset": "168"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "185",
+            "end_offset": "202"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "214",
+            "end_offset": "217"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "text_snippet": {
+      "content": "10083733\tGermline mutations of the APC gene in Korean familial adenomatous polyposis patients .\tWe extensively analyzed genomic DNA and messenger RNA ( mRNA ) from 62 unrelated Korean patients with familial adenomatous polyposis ( FAP ) for identification of germline adenomatous polyposis coli ( APC ) gene mutations . We adopted both single-strand conformation polymorphism ( SSCP ) analysis and a method of analysis involving the reverse transcription-polymerase chain reaction ( RT-PCR ) followed by a protein truncation test ( PTT ) . DNA sequencing confirmed all alterations represented by aberrant bands . Germline mutations were identified in 38 patients ( 61 % ) . Nineteen of the detected mutations were presumed to be novel , thus emphasizing the heterogeneity of the mutational spectrum in Korean FAP patients . In the initial 48 patients , SSCP analysis was followed by PTT for those patients for whom no detectable mutations were found by SSCP . Using this combined approach , we identified germline APC gene mutations in 29 of the 48 FAP patients ( 60 % ) , including 6 patients in whom SSCP analysis failed to distinguish the mutant allele . In the 14 later patients , we identified truncating mutations in 9 patients ( 64 % ) using PTT only . Our results confirm that the mutation detection rate with PTT was superior to that with SSCP , and suggest that PTT would be a more practical screening method to detect germline mutations of the APC gene in FAP patients .\n "
+    },
+    "annotations": [
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "35",
+            "end_offset": "38"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "54",
+            "end_offset": "84"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "198",
+            "end_offset": "228"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "231",
+            "end_offset": "234"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "268",
+            "end_offset": "294"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "297",
+            "end_offset": "300"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "809",
+            "end_offset": "812"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1014",
+            "end_offset": "1017"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1049",
+            "end_offset": "1052"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1455",
+            "end_offset": "1458"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1467",
+            "end_offset": "1470"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "text_snippet": {
+      "content": "8571953\tHaplotype and phenotype analysis of six recurrent BRCA1 mutations in 61 families: results of an international study.\tSeveral BRCA1 mutations have now been found to occur in geographically diverse breast and ovarian cancer families . To investigate mutation origin and mutation-specific phenotypes due to BRCA1 , we constructed a haplotype of nine polymorphic markers within or immediately flanking the BRCA1 locus in a set of 61 breast / ovarian cancer families selected for having one of six recurrent BRCA1 mutations . Tests of both mutations and family-specific differences in age at diagnosis were not significant . A comparison of the six mutations in the relative proportions of cases of breast and ovarian cancer was suggestive of an effect ( P = . 069 ) , with 57 % of women presumed affected because of the 1294 del 40 BRCA1 mutation having ovarian cancer , compared with 14 % of affected women with the splice-site mutation in intron 5 of BRCA1 . For the BRCA1 mutations studied here , the individual mutations are estimated to have arisen 9-170 generations ago . In general , a high degree of haplotype conservation across the region was observed , with haplotype differences most often due to mutations in the short-tandem-repeat markers , although some likely instances of recombination also were observed . For several of the instances , there was evidence for multiple , independent , BRCA1 mutational events . \n "
+    },
+    "annotations": [
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "204",
+            "end_offset": "229"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "437",
+            "end_offset": "460"
+          }
+        }
+      },
+      {
+        "display_name": "CompositeMention",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "702",
+            "end_offset": "727"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "858",
+            "end_offset": "872"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "text_snippet": {
+      "content": "10677309\tATM-heterozygous germline mutations contribute to breast cancer-susceptibility.\tApproximately 0 . 5 % -1 % of the general population has been estimated to be heterozygous for a germline mutation in the ATM gene . Mutations in the ATM gene are responsible for the autosomal recessive disorder ataxia-telangiectasia ( A-T ) ( MIM 208900 ) . The finding that ATM-heterozygotes have an increased relative risk for breast cancer was supported by some studies but not confirmed by others . In view of this discrepancy , we examined the frequency of ATM germline mutations in a selected group of Dutch patients with breast cancer . We have analyzed ATM germline mutations in normal blood lymphocytes , using the protein-truncation test followed by genomic-sequence analysis . A high percentage of ATM germline mutations was demonstrated among patients with sporadic breast cancer . The 82 patients included in this study had developed breast cancer at age  / = 5 years ( mean 15 years ) , and in 33 ( 40 % ) of the patients a contralateral breast tumor had been diagnosed . Among these patients we identified seven ( 8 . 5 % ) ATM germline mutations , of which five are distinct . One splice-site mutation ( IVS10-6T-- > G ) was detected three times in our series . Four heterozygous carriers were patients with bilateral breast cancer . Our results indicate that the mutations identified in this study are \" A-T disease-causing \" mutations that might be associated with an increased risk of breast cancer in heterozygotes . We conclude that ATM heterozygotes have an approximately ninefold-increased risk of developing a type of breast cancer characterized by frequent bilateral occurrence , early age at onset , and long-term survival . The specific characteristics of our population of patients may explain why such a high frequency was not found in other series . \n "
+    },
+    "annotations": [
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "59",
+            "end_offset": "72"
+          }
+        }
+      },
+      {
+        "display_name": "DiseaseClass",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "272",
+            "end_offset": "300"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "301",
+            "end_offset": "322"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "325",
+            "end_offset": "328"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "419",
+            "end_offset": "432"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "618",
+            "end_offset": "631"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "859",
+            "end_offset": "881"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "937",
+            "end_offset": "950"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1028",
+            "end_offset": "1054"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1314",
+            "end_offset": "1337"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1411",
+            "end_offset": "1414"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1494",
+            "end_offset": "1507"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1632",
+            "end_offset": "1645"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "text_snippet": {
+      "content": "10471457\tA population-based study of the clinical expression of the hemochromatosis gene.\tBACKGROUND AND METHODS  Hereditary hemochromatosis is associated with homozygosity for the C282Y mutation in the hemochromatosis ( HFE ) gene on chromosome 6 , elevated serum transferrin saturation , and excess iron deposits throughout the body . To assess the prevalence and clinical expression of the HFE gene , we conducted a population-based study in Busselton , Australia . In 1994 , we obtained blood samples for the determination of serum transferrin saturation and ferritin levels and the presence or absence of the C282Y mutation and the H63D mutation ( which may contribute to increased hepatic iron levels ) in 3011 unrelated white adults . We evaluated all subjects who had persistently elevated transferrin-saturation values ( 45 percent or higher ) or were homozygous for the C282Y mutation . We recommended liver biopsy for subjects with serum ferritin levels of 300 ng per milliliter or higher . The subjects were followed for up to four years . RESULTS  Sixteen of the subjects ( 0 . 5 percent ) were homozygous for the C282Y mutation , and 424 ( 14 . 1 percent ) were heterozygous . The serum transferrin saturation was 45 percent or higher in 15 of the 16 who were homozygous ; in 1 subject it was 43 percent . Four of the homozygous subjects had previously been given a diagnosis of hemochromatosis , and 12 had not . Seven of these 12 patients had elevated serum ferritin levels in 1994 ; 6 of the 7 had further increases in 1998 , and 1 had a decrease , although the value remained elevated . The serum ferritin levels in the four other homozygous patients remained in the normal range . Eleven of the 16 homozygous subjects underwent liver biopsy ; 3 had hepatic fibrosis , and 1 , who had a history of excessive alcohol consumption , had cirrhosis and mild microvesicular steatosis . Eight of the 16 homozygous subjects had clinical findings that were consistent with the presence of hereditary hemochromatosis , such as hepatomegaly , skin pigmentation , and arthritis . CONCLUSIONS  In a population of white adults of northern European ancestry , 0 . 5 percent were homozygous for the C282Y mutation in the HFE gene . However , only half of those who were homozygous had clinical features of hemochromatosis , and one quarter had serum ferritin levels that remained normal over a four-year period .\n "
+    },
+    "annotations": [
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "68",
+            "end_offset": "83"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "114",
+            "end_offset": "140"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "203",
+            "end_offset": "218"
+          }
+        }
+      },
+      {
+        "display_name": "DiseaseClass",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "294",
+            "end_offset": "314"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1393",
+            "end_offset": "1408"
+          }
+        }
+      },
+      {
+        "display_name": "DiseaseClass",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1768",
+            "end_offset": "1784"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1816",
+            "end_offset": "1845"
+          }
+        }
+      },
+      {
+        "display_name": "DiseaseClass",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1852",
+            "end_offset": "1861"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1871",
+            "end_offset": "1895"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1998",
+            "end_offset": "2024"
+          }
+        }
+      },
+      {
+        "display_name": "DiseaseClass",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "2035",
+            "end_offset": "2047"
+          }
+        }
+      },
+      {
+        "display_name": "DiseaseClass",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "2050",
+            "end_offset": "2067"
+          }
+        }
+      },
+      {
+        "display_name": "DiseaseClass",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "2074",
+            "end_offset": "2083"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "2308",
+            "end_offset": "2323"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "text_snippet": {
+      "content": "10404839\tSulfate transport is not impaired in pendred syndrome thyrocytes.\tPendred syndrome is the most common form of syndromic deafness , characterized by dyshormonogenic goiter associated with sensory-neural deafness . The gene responsible for the disease ( PDS ) has been cloned , but its function is as yet unknown and the connection between thyroid goiter and sensory-neural deafness remains an enigma . PDS codes for a novel protein , pendrin , which is closely related to a number of sufate transporters . Mechanisms by which abnormal sulfate transport could deleteriously affect iodide organification have been proposed . We tested sulfate transport in thyrocytes obtained from Pendred syndrome patients and found that it was not defective . This suggests that pendrin in fact may not be a sulfate transporter , and emphasizes the importance of functional studies on this novel protein . . \n "
+    },
+    "annotations": [
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "46",
+            "end_offset": "62"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "75",
+            "end_offset": "91"
+          }
+        }
+      },
+      {
+        "display_name": "DiseaseClass",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "119",
+            "end_offset": "137"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "157",
+            "end_offset": "179"
+          }
+        }
+      },
+      {
+        "display_name": "DiseaseClass",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "196",
+            "end_offset": "219"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "261",
+            "end_offset": "264"
+          }
+        }
+      },
+      {
+        "display_name": "DiseaseClass",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "347",
+            "end_offset": "361"
+          }
+        }
+      },
+      {
+        "display_name": "DiseaseClass",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "366",
+            "end_offset": "389"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "687",
+            "end_offset": "703"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "text_snippet": {
+      "content": "1322637\tIdentification and rapid detection of three Tay-Sachs mutations in the Moroccan Jewish population.\tInfantile Tay-Sachs disease ( TSD ) is caused by mutations in the HEXA gene that result in the complete absence of beta-hexosaminidase A activity . It is well known that an elevated frequency of TSD mutations exists among Ashkenazi Jews . More recently it has become apparent that elevated carrier frequencies for TSD also occur in several other ethnic groups , including Moroccan Jews , a subgroup of Sephardic Jews . Elsewhere we reported an in-frame deletion of one of the two adjacent phenylalanine codons at position 304 or 305 ( delta F304 / 305 ) in one HEXA allele of a Moroccan Jewish TSD patient and in three obligate carriers from six unrelated Moroccan Jewish families . We have now identified two additional mutations within exon 5 of the HEXA gene that account for the remaining TSD alleles in the patient and carriers . One of the mutations is a novel C-to-G transversion , resulting in a replacement of Tyr180 by a stop codon . The other mutation is a G-to-A transition resulting in an Arg170-to-Gln substitution . This mutation is at a CpG site in a Japanese infant with Tay-Sachs disease and was described elsewhere . Analysis of nine obligate carriers from seven unrelated families showed that four harbor the delta F304 / 305 mutation , two the Arg170----Gln mutation , and one the Tyr180----Stop mutation . We also have developed rapid , nonradioactive assays for the detection of each mutation , which should be helpful for carrier screening . . \n "
+    },
+    "annotations": [
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "52",
+            "end_offset": "61"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "117",
+            "end_offset": "134"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "137",
+            "end_offset": "140"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "302",
+            "end_offset": "305"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "421",
+            "end_offset": "424"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "701",
+            "end_offset": "704"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "900",
+            "end_offset": "903"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1195",
+            "end_offset": "1212"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "text_snippet": {
+      "content": "10094559\tIdentification of the mutation in the alkaptonuria mouse model .\tAlkaptonuria ( aku ) , an inborn error of metabolism caused by the loss of homogentisate 1 , 2-dioxygenase ( HGD ) , has been described in a mouse model created by ethylnitrosourea mutagenesis but the mutation in these mice has not previously been identified . We used RT-PCR to amplify the Hgd cDNA from Hgd ( aku ) / Hgd ( aku ) mice . Two products shorter than the wild-type product were amplified . Restriction mapping and DNA sequencing were then used to identify the Hgd ( aku ) mouse mutation , found to be a single base change in a splice donor consensus sequence , causing exon skipping and frame-shifted products . This base change allowed us to create a non-radioactive genotyping assay for this allele . \n "
+    },
+    "annotations": [
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "47",
+            "end_offset": "59"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "74",
+            "end_offset": "86"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "89",
+            "end_offset": "92"
+          }
+        }
+      },
+      {
+        "display_name": "DiseaseClass",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "100",
+            "end_offset": "126"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "text_snippet": {
+      "content": "8307570\tGenomic structure of the EWS gene and its relationship to EWSR1, a site of tumor-associated chromosome translocation.\tThe EWS gene has been identified based on its location at the chromosome 22 breakpoint of the t ( 11 ; 22 ) ( q24 ; q12 ) translocation that characterizes Ewing sarcoma and related neuroectodermal tumors . The EWS gene spans about 40 kb of DNA and is encoded by 17 exons . The nucleotide sequence of the exons is identical to that of the previously described cDNA . The first 7 exons encode the N-terminal domain of EWS , which consists of a repeated degenerated polypeptide of 7 to 12 residues rich in tyrosine , serine , threonine , glycine , and glutamine . Exons 11 , 12 , and 13 encode the putative RNA binding domain . The three glycine- and arginine-rich motifs of the gene are mainly encoded by exons 8-9 , 14 , and 16 . The DNA sequence in the 5 region of the gene has features of a CpG-rich island and lacks canonical promoter elements , such as TATA and CCAAT consensus sequences . Positions of the chromosome 22 breakpoints were determined for 19 Ewing tumors . They were localized in introns 7 or 8 in 18 cases and in intron 10 in 1 case . . \n "
+    },
+    "annotations": [
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "83",
+            "end_offset": "88"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "281",
+            "end_offset": "294"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "307",
+            "end_offset": "329"
+          }
+        }
+      },
+      {
+        "display_name": "DiseaseClass",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1085",
+            "end_offset": "1097"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "text_snippet": {
+      "content": "10446987\tThe dermatofibrosarcoma protuberans-associated collagen type Ialpha1/platelet-derived growth factor (PDGF) B-chain fusion gene generates a transforming protein that is processed to functional PDGF-BB.\tDermatofibrosarcoma protuberans ( DFSP ) displays chromosomal rearrangements involving chromosome 17 and 22 , which fuse the collagen type Ialpha1 ( COLIA1 ) gene to the platelet-derived growth factor ( PDGF ) B-chain ( PDGFB ) gene . To characterize the functional and structural properties of the COLIA1 / PDGFB fusion protein , we generated a stable NIH3T3 cell line that contained a tumor-derived chimeric gene resulting from a COIA1 intron 7-PDGFB intron 1 fusion . Expression of the fusion protein led to morphological transformation and increased growth rate of these cells . The PDGF receptor kinase inhibitor CGP57148B reversed the transformed phenotype and reduced the growth rate of COLIA1 / PDGFB-expressing cells but had no effects on control cells . The presence of dimeric COLIA1 / PDGFB precursors was demonstrated through PDGFB immunoprecipitations of metabolically labeled cells and also by PDGFB immunoprecipitations followed by immunoblotting with COLIA1 antibodies . Pulse-chase studies demonstrated that the COLIA1 / PDGFB precursor was processed to an end product that was indistinguishable from wild-type PDGF-BB . Finally , COLIA1 / PDGFB-expressing cells generated tumors after s . c c . injection into nude mice , and tumor growth was reduced by treatment with CGP57148B . We conclude that the COLIA1 / PDGFB fusion associated with DFSP contributes to tumor development through ectopic production of PDGF-BB and the formation of an autocrine loop . Our findings , thus , suggest that PDGF receptors could be a target for pharmacological treatment of DFSP and giant cell fibroblastoma , e . g . , through the use of PDGF receptor kinase inhibitors such as CGP57148B .\n "
+    },
+    "annotations": [
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "13",
+            "end_offset": "44"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "210",
+            "end_offset": "241"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "244",
+            "end_offset": "248"
+          }
+        }
+      },
+      {
+        "display_name": "DiseaseClass",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1401",
+            "end_offset": "1407"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1455",
+            "end_offset": "1460"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1569",
+            "end_offset": "1573"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1589",
+            "end_offset": "1594"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1787",
+            "end_offset": "1791"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1796",
+            "end_offset": "1820"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "text_snippet": {
+      "content": "7959759\tGenomic organization of the adrenoleukodystrophy gene.\tAdrenoleukodystrophy ( ALD ) , the most frequent peroxisomal disorder , is a severe neurodegenerative disease associated with an impairment of very long chain fatty acids beta-oxidation . We have recently identified by positional cloning the gene responsible for ALD , located in Xq28 . It encodes a new member of the \" ABC \" superfamily of membrane-associated transporters that shows , in particular , significant homology to the 70-kDa peroxisomal membrane protein ( PMP70 ) . We report here a detailed characterization of the ALD gene structure . It extends over 21 kb and consists of 10 exons . To facilitate the detection of mutations in ALD patients , we have determined the intronic sequences flanking the exons as well as the sequence of the 3 untranslated region and of the immediate 5 promoter region . Sequences present in distal exons cross-hybridize strongly to additional sequences in the human genome . The ALD gene has been positioned on a pulsed-field map between DXS15 and the L1CAM gene , about 650 kb upstream from the color pigment genes . The frequent occurrence of color vision anomalies observed in patients with adrenomyeloneuropathy ( the adult onset form of ALD ) thus does not represent a contiguous gene syndrome but a secondary manifestation of ALD . . \n "
+    },
+    "annotations": [
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "36",
+            "end_offset": "56"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "63",
+            "end_offset": "83"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "86",
+            "end_offset": "89"
+          }
+        }
+      },
+      {
+        "display_name": "DiseaseClass",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "112",
+            "end_offset": "132"
+          }
+        }
+      },
+      {
+        "display_name": "DiseaseClass",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "147",
+            "end_offset": "172"
+          }
+        }
+      },
+      {
+        "display_name": "DiseaseClass",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "192",
+            "end_offset": "248"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "326",
+            "end_offset": "329"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "592",
+            "end_offset": "595"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "706",
+            "end_offset": "709"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "985",
+            "end_offset": "988"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1200",
+            "end_offset": "1221"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1248",
+            "end_offset": "1251"
+          }
+        }
+      },
+      {
+        "display_name": "DiseaseClass",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1280",
+            "end_offset": "1304"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1338",
+            "end_offset": "1341"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "text_snippet": {
+      "content": "8522307\tSomatic von Hippel-Lindau mutation in clear cell papillary cystadenoma of the epididymis.\tPapillary cystadenoma of the epididymis is an uncommon benign lesion that may occur sporadically or as a manifestation of von Hippel-Lindau ( VHL ) disease . Neither immunohistochemical studies nor molecular genetic analyses of the VHL gene have been reported previously for this lesion . The authors describe two cases of clear cell papillary cystadenoma of the epididymis , both of which were initially confused with metastatic renal cell carcinoma . Both lesions showed positive immunohistochemical staining for low and intermediate molecular weight keratins ( Cam 5 . 2 and AE1 / AE3 ) , EMA , vimentin , alpha 1-antitrypsin , and alpha 1-antichymotrypsin . Each was negative for CEA . Because clear cell papillary cystadenoma is similar to renal cell carcinoma histologically , and because both occur as components of the von Hippel-Lindau disease complex , the authors analyzed both cases for the presence of mutations in the VHL gene . A somatic VHL gene mutation was detected in one of the two tumors by polymerase chain reaction followed by single-strand conformation polymorphism analysis . Direct sequencing revealed a cytosine to thymine transition at nucleotide 694 , resulting in the replacement of an arginine with a stop codon after the sixth amino acid of exon 3 . As the VHL gene is believed to function as a tumor suppressor gene , VHL gene mutations may play a role in the initiation of tumorigenesis in sporadic cystadenomas of the epididymis . \n "
+    },
+    "annotations": [
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "16",
+            "end_offset": "33"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "57",
+            "end_offset": "96"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "98",
+            "end_offset": "137"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "220",
+            "end_offset": "253"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "330",
+            "end_offset": "333"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "432",
+            "end_offset": "471"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "517",
+            "end_offset": "548"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "807",
+            "end_offset": "828"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "843",
+            "end_offset": "863"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "925",
+            "end_offset": "950"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1030",
+            "end_offset": "1033"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1051",
+            "end_offset": "1054"
+          }
+        }
+      },
+      {
+        "display_name": "DiseaseClass",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1100",
+            "end_offset": "1106"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1387",
+            "end_offset": "1390"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1425",
+            "end_offset": "1430"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1449",
+            "end_offset": "1452"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1531",
+            "end_offset": "1561"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "text_snippet": {
+      "content": "10571950\tSplice-site mutation in the PDS gene may result in intrafamilial variability for deafness in Pendred syndrome.\tPendred syndrome is a recessive inherited disorder that consists of developmental abnormalities of the cochlea , sensorineural hearing loss , and diffuse thyroid enlargement ( goiter ) . This disorder may account for up to 10 % of cases of hereditary deafness . The disease gene ( PDS ) has been mapped to chromosome 7q22-q31 , and encodes a chloride-iodide transport protein . We performed mutation analysis of individual exons of the PDS gene in one Spanish family that shows intrafamilial variability of the deafness phenotype ( two patients with profound and one with moderate-severe deafness ) . We identified a new splice-site mutation affecting intron 4 of the PDS gene , at nucleotide position 639 + 7 . RNA analysis from lymphocytes of the affected patients showed that mutation 639 + 7A-- > G generates a new donor splice site , leading to an mRNA with an insertion of six nucleotides from intron 4 of PDS . Since the newly created donor splice site is likely to compete with the normal one , variations of the levels of normal and aberrant transcripts of the PDS gene in the cochlea may explain the variability in the deafness presentation . . \n "
+    },
+    "annotations": [
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "37",
+            "end_offset": "40"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "90",
+            "end_offset": "98"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "102",
+            "end_offset": "118"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "120",
+            "end_offset": "136"
+          }
+        }
+      },
+      {
+        "display_name": "DiseaseClass",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "142",
+            "end_offset": "170"
+          }
+        }
+      },
+      {
+        "display_name": "DiseaseClass",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "202",
+            "end_offset": "230"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "233",
+            "end_offset": "259"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "266",
+            "end_offset": "293"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "296",
+            "end_offset": "302"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "360",
+            "end_offset": "379"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "401",
+            "end_offset": "404"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "556",
+            "end_offset": "559"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "631",
+            "end_offset": "639"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "708",
+            "end_offset": "716"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "788",
+            "end_offset": "791"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1190",
+            "end_offset": "1193"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1249",
+            "end_offset": "1257"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "text_snippet": {
+      "content": "8589721\tGrowth retardation and tumour inhibition by BRCA1.\tInherited mutations in BRCA1 predispose to breast and ovarian cancer , but the role of BRCA1 in sporadic breast and ovarian cancer has previously been elusive . Here , we show that retroviral transfer of the wild-type BRCA1 gene inhibits growth in vitro of all breast and ovarian cancer cell lines tested , but not colon or lung cancer cells or fibroblasts . Mutant BRCA1 has no effect on growth of breast cancer cells ; ovarian cancer cell growth is not affected by BRCA1 mutations in the 5 portion of the gene , but is inhibited by 3 BRCA1 mutations . Development of MCF-7 tumours in nude mice is inhibited when MCF-7 cells are transfected with wild-type , but not mutant , BRCA1 . Most importantly , among mice with established MCF-7 tumours , peritoneal treatment with a retroviral vector expressing wild-type BRCA1 significantly inhibits tumour growth and increased survival . . \n "
+    },
+    "annotations": [
+      {
+        "display_name": "DiseaseClass",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "8",
+            "end_offset": "26"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "31",
+            "end_offset": "37"
+          }
+        }
+      },
+      {
+        "display_name": "CompositeMention",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "102",
+            "end_offset": "127"
+          }
+        }
+      },
+      {
+        "display_name": "CompositeMention",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "164",
+            "end_offset": "189"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "320",
+            "end_offset": "345"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "374",
+            "end_offset": "394"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "458",
+            "end_offset": "471"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "480",
+            "end_offset": "494"
+          }
+        }
+      },
+      {
+        "display_name": "DiseaseClass",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "628",
+            "end_offset": "641"
+          }
+        }
+      },
+      {
+        "display_name": "DiseaseClass",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "790",
+            "end_offset": "803"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "902",
+            "end_offset": "908"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "text_snippet": {
+      "content": "1311721\tProliferation-related expression of p19/nm23 nucleoside diphosphate kinase.\tHigh level expression of the nm23-H1 gene , which encodes for a nucleoside diphosphate kinase , has been found to correlate with diminished metastasis in some tumors but not in others . We have previously identified the protein product of the nm23-H1 gene in two-dimensional electrophoretic gels and have designated it p19 / nm23 . In neuroblastoma , higher levels of p19 / nm23 , which are associated with amplification of the N-myc oncogene , large tumor mass , and metastasis , were observed in advanced stage tumors compared with limited stage disease . Because of the variable expression of nm23-H1 in different tumors , we have investigated the relationship between amounts of the protein and cell proliferation . The levels of p19 / nm23 were compared between resting and mitotically stimulated normal human PBLs and in leukemia cells . The amount of p19 / nm23 increased in normal lymphocytes in response to mitotic stimulation and paralleled the increase in DNA synthesis . In leukemia cells obtained from patients with different subtypes of acute leukemia , p19 / nm23 levels were also increased relative to resting normal lymphocytes . Treatment of mitotically stimulated lymphocytes with cyclosporin , which inhibits proliferation , blocked the increase in p19 / nm23 ; treatment of the leukemia cell line HL-60 with dimethylsulfoxide , which induces terminal differentiation , resulted in diminished levels of p19 / nm23 . Our data therefore provide evidence that nm23-H1 expression is related to cell proliferative activity . . \n "
+    },
+    "annotations": [
+      {
+        "display_name": "DiseaseClass",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "243",
+            "end_offset": "249"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "419",
+            "end_offset": "432"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "535",
+            "end_offset": "540"
+          }
+        }
+      },
+      {
+        "display_name": "DiseaseClass",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "597",
+            "end_offset": "603"
+          }
+        }
+      },
+      {
+        "display_name": "DiseaseClass",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "701",
+            "end_offset": "707"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "911",
+            "end_offset": "919"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1070",
+            "end_offset": "1078"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1135",
+            "end_offset": "1149"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1383",
+            "end_offset": "1391"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "text_snippet": {
+      "content": "10077614\tA zinc finger truncation of murine WT1 results in the characteristic urogenital abnormalities of Denys-Drash syndrome  .\tThe Wilms tumor -suppressor gene , WT1 , plays a key role in urogenital development , and WT1 dysfunction is implicated in both neoplastic ( Wilms tumor , mesothelioma , leukemias , and breast cancer ) and nonneoplastic ( glomerulosclerosis ) disease . The analysis of diseases linked specifically with WT1 mutations , such as Denys-Drash syndrome ( DDS ) , can provide valuable insight concerning the role of WT1 in development and disease . DDS is a rare childhood disease characterized by a nephropathy involving mesangial sclerosis , XY pseudohermaphroditism , and / or Wilms tumor ( WT ) . DDS patients are constitutionally heterozygous for exonic point mutations in WT1 , which include mutations predicted to truncate the protein within the C-terminal zinc finger ( ZF ) region . We report that heterozygosity for a targeted murine Wt1 allele , Wt1 ( tmT396 ) , which truncates ZF3 at codon 396 , induces mesangial sclerosis characteristic of DDS in adult heterozygous and chimeric mice . Male genital defects also were evident and there was a single case of Wilms tumor in which the transcript of the nontargeted allele showed an exon 9 skipping event , implying a causal link between Wt1 dysfunction and Wilms tumorigenesis in mice . However , the mutant WT1 ( tmT396 ) protein accounted for only 5 % of WT1 in both heterozygous embryonic stem cells and the WT . This has implications regarding the mechanism by which the mutant allele exerts its effect .\n "
+    },
+    "annotations": [
+      {
+        "display_name": "DiseaseClass",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "78",
+            "end_offset": "102"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "106",
+            "end_offset": "126"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "134",
+            "end_offset": "145"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "220",
+            "end_offset": "235"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "258",
+            "end_offset": "268"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "271",
+            "end_offset": "282"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "285",
+            "end_offset": "297"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "300",
+            "end_offset": "309"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "316",
+            "end_offset": "329"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "336",
+            "end_offset": "349"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "352",
+            "end_offset": "370"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "457",
+            "end_offset": "477"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "480",
+            "end_offset": "483"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "573",
+            "end_offset": "576"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "624",
+            "end_offset": "635"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "646",
+            "end_offset": "665"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "671",
+            "end_offset": "692"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "704",
+            "end_offset": "715"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "718",
+            "end_offset": "720"
+          }
+        }
+      },
+      {
+        "display_name": "Modifier",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "725",
+            "end_offset": "728"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1041",
+            "end_offset": "1060"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1079",
+            "end_offset": "1082"
+          }
+        }
+      },
+      {
+        "display_name": "DiseaseClass",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1125",
+            "end_offset": "1145"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1195",
+            "end_offset": "1206"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1322",
+            "end_offset": "1337"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1342",
+            "end_offset": "1361"
+          }
+        }
+      },
+      {
+        "display_name": "SpecificDisease",
+        "text_extraction": {
+          "text_segment": {
+            "start_offset": "1496",
+            "end_offset": "1498"
+          }
+        }
+      }
+    ]
+  }
+]

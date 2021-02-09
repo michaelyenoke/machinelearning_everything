@@ -1,0 +1,78 @@
+#!/usr/bin/python2.7
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+# ==============================================================================
+"""A tool to help generate training data (jsonl) and upload to Google Cloud Storage (GCS).
+
+Synopsis:
+  python2 input_helper_v2.py [MLUSE,]SOURCE... GCS_TARGET
+  python2 input_helper_v2.py -t GCS_TARGET [MLUSE,]SOURCE...
+  python2 input_helper_v2.py -d DICTIONARY_PATH [MLUSE,]SOURCE...
+
+  e.g. python2 input_helper_v2.py ./*.txt gs://bucket/converted
+  e.g. python2 input_helper_v2.py gs://bucket/*.txt gs://bucket/converted
+  e.g. python2 input_helper_v2.py train,./*.txt test,~/*.txt gs://bucket/converted
+  e.g. python2 input_helper_v2.py gs://bucket/*.pdf gs://bucket/converted
+
+Prerequisites:
+  1. This tools runs under python2 (>=2.7.9).
+     https://www.python.org/downloads
+  2. This tools replies on gsutil to copy and upload files.
+     https://cloud.google.com/storage/docs/quickstart-gsutil
+  3. The caller should have access to all input files and GCS bucket.
+  4. If specified, the dictionary csv should be encoded in UTF-8.
+
+Usage:
+  1. Convert all txt under dir1 and dir2 and then upload them into gs://bucket.
+    python2 input_helper_v2.py dir1/*.txt dir2/*.txt gs://bucket
+
+  2. Convert txt under dir1 (assign to train set) and dir2 (to test set), and
+     then upload them into gs://bucket.
+    python2 input_helper_v2.py train,dir1/*.txt test,dir2/*.txt gs://bucket
+
+  3. Convert txt under dir1 (assign to train set), auto split a txt content
+     into multiple examples if it is too long, annotate them with a dictionary,
+     and then upload them into gs://bucket.
+    python2 input_helper_v2.py -d dict.csv -s train,dir1/*.txt gs://bucket
+
+  4. Convert PDF files under dir1(local) and gs://dir2, upload the local PDFs
+     and converted input into gs://bucket.
+    python2 input_helper_v2.py -t gs://bucket dir1/*.pdf gs://dir2/*.pdf
+
+Description:
+  -s, --split
+      Whether to auto split the content in one input file into multiple examples
+      (as multiple json lines in a converted jsonl file).
+      Too long example may get rejected in data import.
+
+  -d, --dictionary
+      Specify a dictionary in csv to auto annotate the converted jsonl files.
+      If specified, the csv should be encoded in UTF-8.
+      Each csv line should be in this format: PATTERN,LABEL[,MATCHING_MODE]
+      - PATTERN is a string pattern to match in an example content.
+      - LABEL is the label applied if the PATTERN is matched.
+      - MATCHING_MODE is the strategy the PATTERN applies in matching. 3 modes:
+        'e|E': the PATTERN applies to exact match only. (default)
+        'i|I': the PATTERN applies to matches ignore cases.
+        'r|R': the PATTERN is a regular expression.
+        For 'e' and 'i', the matches are enforced on word boundaries. But for
+        'r' there is no such restriction.
+
+      Annotations can not have overlaps. So the order of patterns in csv does
+      matter.
+      The earlier patterns are matched first and overlapping annotations matched
+      by later patterns are skipped.
+
+  -v, --verbose
+      Whether to print process details to stderr.
+"""
